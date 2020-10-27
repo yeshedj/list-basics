@@ -1,3 +1,3 @@
-# Activity: Reading: List basics
+# Activity: List basics
 
 Instructions are [here]().
